@@ -1,0 +1,15 @@
+C:\Users\tilak\Desktop\practice_damnit\staticModifier\bin\Debug\net8.0\staticModifier.exe
+C:\Users\tilak\Desktop\practice_damnit\staticModifier\bin\Debug\net8.0\staticModifier.deps.json
+C:\Users\tilak\Desktop\practice_damnit\staticModifier\bin\Debug\net8.0\staticModifier.runtimeconfig.json
+C:\Users\tilak\Desktop\practice_damnit\staticModifier\bin\Debug\net8.0\staticModifier.dll
+C:\Users\tilak\Desktop\practice_damnit\staticModifier\bin\Debug\net8.0\staticModifier.pdb
+C:\Users\tilak\Desktop\practice_damnit\staticModifier\obj\Debug\net8.0\staticModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tilak\Desktop\practice_damnit\staticModifier\obj\Debug\net8.0\staticModifier.AssemblyInfoInputs.cache
+C:\Users\tilak\Desktop\practice_damnit\staticModifier\obj\Debug\net8.0\staticModifier.AssemblyInfo.cs
+C:\Users\tilak\Desktop\practice_damnit\staticModifier\obj\Debug\net8.0\staticModifier.csproj.CoreCompileInputs.cache
+C:\Users\tilak\Desktop\practice_damnit\staticModifier\obj\Debug\net8.0\staticModifier.sourcelink.json
+C:\Users\tilak\Desktop\practice_damnit\staticModifier\obj\Debug\net8.0\staticModifier.dll
+C:\Users\tilak\Desktop\practice_damnit\staticModifier\obj\Debug\net8.0\refint\staticModifier.dll
+C:\Users\tilak\Desktop\practice_damnit\staticModifier\obj\Debug\net8.0\staticModifier.pdb
+C:\Users\tilak\Desktop\practice_damnit\staticModifier\obj\Debug\net8.0\staticModifier.genruntimeconfig.cache
+C:\Users\tilak\Desktop\practice_damnit\staticModifier\obj\Debug\net8.0\ref\staticModifier.dll
