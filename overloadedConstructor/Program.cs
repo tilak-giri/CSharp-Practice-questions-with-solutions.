@@ -1,4 +1,10 @@
-﻿class Program{
+﻿/*
+Overloaded Constructor : A technique to create multiple constructors, with a different set of parameters.
+
+Each constructor must have a unique signature.
+(name + parameters = signature)
+*/
+class Program{
     public static void Main(string[] args)
     {
         Momo momo1 = new Momo("chicken", "johl", "chatni");
