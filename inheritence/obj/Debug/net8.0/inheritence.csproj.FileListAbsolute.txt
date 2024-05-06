@@ -1,0 +1,15 @@
+C:\Users\tilak\Desktop\practice_damnit\inheritence\bin\Debug\net8.0\inheritence.exe
+C:\Users\tilak\Desktop\practice_damnit\inheritence\bin\Debug\net8.0\inheritence.deps.json
+C:\Users\tilak\Desktop\practice_damnit\inheritence\bin\Debug\net8.0\inheritence.runtimeconfig.json
+C:\Users\tilak\Desktop\practice_damnit\inheritence\bin\Debug\net8.0\inheritence.dll
+C:\Users\tilak\Desktop\practice_damnit\inheritence\bin\Debug\net8.0\inheritence.pdb
+C:\Users\tilak\Desktop\practice_damnit\inheritence\obj\Debug\net8.0\inheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tilak\Desktop\practice_damnit\inheritence\obj\Debug\net8.0\inheritence.AssemblyInfoInputs.cache
+C:\Users\tilak\Desktop\practice_damnit\inheritence\obj\Debug\net8.0\inheritence.AssemblyInfo.cs
+C:\Users\tilak\Desktop\practice_damnit\inheritence\obj\Debug\net8.0\inheritence.csproj.CoreCompileInputs.cache
+C:\Users\tilak\Desktop\practice_damnit\inheritence\obj\Debug\net8.0\inheritence.sourcelink.json
+C:\Users\tilak\Desktop\practice_damnit\inheritence\obj\Debug\net8.0\inheritence.dll
+C:\Users\tilak\Desktop\practice_damnit\inheritence\obj\Debug\net8.0\refint\inheritence.dll
+C:\Users\tilak\Desktop\practice_damnit\inheritence\obj\Debug\net8.0\inheritence.pdb
+C:\Users\tilak\Desktop\practice_damnit\inheritence\obj\Debug\net8.0\inheritence.genruntimeconfig.cache
+C:\Users\tilak\Desktop\practice_damnit\inheritence\obj\Debug\net8.0\ref\inheritence.dll
