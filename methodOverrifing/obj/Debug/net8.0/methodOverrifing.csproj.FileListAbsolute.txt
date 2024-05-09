@@ -1,0 +1,15 @@
+C:\Users\tilak\Desktop\practice_damnit\methodOverrifing\bin\Debug\net8.0\methodOverrifing.exe
+C:\Users\tilak\Desktop\practice_damnit\methodOverrifing\bin\Debug\net8.0\methodOverrifing.deps.json
+C:\Users\tilak\Desktop\practice_damnit\methodOverrifing\bin\Debug\net8.0\methodOverrifing.runtimeconfig.json
+C:\Users\tilak\Desktop\practice_damnit\methodOverrifing\bin\Debug\net8.0\methodOverrifing.dll
+C:\Users\tilak\Desktop\practice_damnit\methodOverrifing\bin\Debug\net8.0\methodOverrifing.pdb
+C:\Users\tilak\Desktop\practice_damnit\methodOverrifing\obj\Debug\net8.0\methodOverrifing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tilak\Desktop\practice_damnit\methodOverrifing\obj\Debug\net8.0\methodOverrifing.AssemblyInfoInputs.cache
+C:\Users\tilak\Desktop\practice_damnit\methodOverrifing\obj\Debug\net8.0\methodOverrifing.AssemblyInfo.cs
+C:\Users\tilak\Desktop\practice_damnit\methodOverrifing\obj\Debug\net8.0\methodOverrifing.csproj.CoreCompileInputs.cache
+C:\Users\tilak\Desktop\practice_damnit\methodOverrifing\obj\Debug\net8.0\methodOverrifing.sourcelink.json
+C:\Users\tilak\Desktop\practice_damnit\methodOverrifing\obj\Debug\net8.0\methodOverrifing.dll
+C:\Users\tilak\Desktop\practice_damnit\methodOverrifing\obj\Debug\net8.0\refint\methodOverrifing.dll
+C:\Users\tilak\Desktop\practice_damnit\methodOverrifing\obj\Debug\net8.0\methodOverrifing.pdb
+C:\Users\tilak\Desktop\practice_damnit\methodOverrifing\obj\Debug\net8.0\methodOverrifing.genruntimeconfig.cache
+C:\Users\tilak\Desktop\practice_damnit\methodOverrifing\obj\Debug\net8.0\ref\methodOverrifing.dll
