@@ -1,0 +1,15 @@
+C:\Users\tilak\Desktop\practice_damnit\generics\bin\Debug\net8.0\generics.exe
+C:\Users\tilak\Desktop\practice_damnit\generics\bin\Debug\net8.0\generics.deps.json
+C:\Users\tilak\Desktop\practice_damnit\generics\bin\Debug\net8.0\generics.runtimeconfig.json
+C:\Users\tilak\Desktop\practice_damnit\generics\bin\Debug\net8.0\generics.dll
+C:\Users\tilak\Desktop\practice_damnit\generics\bin\Debug\net8.0\generics.pdb
+C:\Users\tilak\Desktop\practice_damnit\generics\obj\Debug\net8.0\generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tilak\Desktop\practice_damnit\generics\obj\Debug\net8.0\generics.AssemblyInfoInputs.cache
+C:\Users\tilak\Desktop\practice_damnit\generics\obj\Debug\net8.0\generics.AssemblyInfo.cs
+C:\Users\tilak\Desktop\practice_damnit\generics\obj\Debug\net8.0\generics.csproj.CoreCompileInputs.cache
+C:\Users\tilak\Desktop\practice_damnit\generics\obj\Debug\net8.0\generics.sourcelink.json
+C:\Users\tilak\Desktop\practice_damnit\generics\obj\Debug\net8.0\generics.dll
+C:\Users\tilak\Desktop\practice_damnit\generics\obj\Debug\net8.0\refint\generics.dll
+C:\Users\tilak\Desktop\practice_damnit\generics\obj\Debug\net8.0\generics.pdb
+C:\Users\tilak\Desktop\practice_damnit\generics\obj\Debug\net8.0\generics.genruntimeconfig.cache
+C:\Users\tilak\Desktop\practice_damnit\generics\obj\Debug\net8.0\ref\generics.dll
